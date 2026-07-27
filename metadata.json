@@ -1,0 +1,6 @@
+{
+  "name": "Productivity SaaS Application",
+  "description": "A comprehensive productivity suite with smart task management, AI task deconstruction, daily focus planner, time blocking, Pomodoro focus timer, ambient audio, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
